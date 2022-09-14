@@ -1,5 +1,5 @@
 # Elite101PreWork
-Gato is a bot. They may reply random stuff. Be warned: they also might insult you.
+Gato is a bot. They may reply random stuff. Be warned: its conversating abilities is not at its peak.
 Good luck and have fun!
 
 ## Replit

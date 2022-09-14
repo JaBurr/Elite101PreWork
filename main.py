@@ -14,7 +14,8 @@ responses = [
   "STOP BEING MEAN!!!!",
   "Mashed potatoes",
   "...",
-  "Bachelor's degree on whatever you just said"
+  "Bachelor's degree on whatever you just said",
+  "Opinion on cats?"
 ]
 
 
