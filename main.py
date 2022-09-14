@@ -1,6 +1,7 @@
 import random
 
 input("Hello, I am Gato. I am a bot that takes your responses and adds them to my list of responses. The more you type, the more I learn. How is your day?\n")
+#line added on replit
 
 responses = [
   "That's good!",
